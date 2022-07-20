@@ -1,4 +1,4 @@
-# Sample Snack app
+# Sample ReactJs App using Snack
 
 Demo video: https://drive.google.com/file/d/1QzOZ4LwuHviaotzf1AXhWJI1V0CW-X_p/view?usp=sharing
 
